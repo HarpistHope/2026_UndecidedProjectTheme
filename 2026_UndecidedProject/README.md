@@ -2,6 +2,7 @@
 
 ### Team Members
 Hope McBride 2.0
+Katie Litchen 1.0
 
 ### Final Proposal
 1. Persona/Scenario
