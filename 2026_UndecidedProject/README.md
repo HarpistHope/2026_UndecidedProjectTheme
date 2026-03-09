@@ -3,6 +3,7 @@
 ### Team Members
 - Hope McBride 2.0
 - Katie Litchen 1.0
+- Tiffany Jones 1.0
 
 Something else :P
 
