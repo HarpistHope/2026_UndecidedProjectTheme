@@ -6,7 +6,9 @@
 - Tiffany Jones 1.0
 
 Something else :P
-LETS ALL MAKE CHANGES!!!
+LETS ALL MAKE CHANGES!!! 
+
+YIPPIEEEEEEE ;) 
 
 ### Final Proposal
 1. Persona/Scenario
@@ -14,7 +16,7 @@ LETS ALL MAKE CHANGES!!!
     2. Scenario
 2. Requirements Document
 
-3. Wireframes  NEXT WWEKS PROBLEM
+3. Wireframes  NEXT weeks PROBLEM
 
 
 
