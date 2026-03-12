@@ -1,7 +1,7 @@
 # Team Name - Undecided
 
 ### Team Members
-- 
+- Hope McBride 2.0 - Team member in Chief
 - Katie Litchen 1.0
 - Tiffany Jones 1.0
 
